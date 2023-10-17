@@ -17,7 +17,7 @@ Make sure you have Python 3.x installed.
 1. Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/mbm6448/matmul)
+git clone https://github.com/mbm6448/matmul.git
 cd matmul
 ```
 
