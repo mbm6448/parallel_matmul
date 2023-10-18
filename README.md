@@ -17,7 +17,7 @@ Make sure you have Python 3.x installed.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mbm6448/matmul.git
+git clone https://github.com/mbm6448/parallel_matmul.git
 cd matmul
 ```
 
